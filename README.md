@@ -1,7 +1,5 @@
 # IPGS
-Influence preserving Graph summerization using LSH &amp; WLSH at billion scale
-IPGS is summerization algorithum developed using Personalized graph summerization and LDME algorithum, we have used Locality senstive hashing 
-concept from LDME and used it in Personalized graph summerization to make the Personalized graph summerization more efficient.
+"Influence Preserving Graph Summarization using LSH & WLSH at Billion Scale (IPGS) is a summarization algorithm developed employing Personalized Graph Summarization and LDME algorithms. We incorporated the Locality Sensitive Hashing (LSH) concept from LDME and applied it to Personalized Graph Summarization, enhancing the efficiency of the latter."
 
 Link for LDME: https://dl.acm.org/doi/10.1145/3448016.3457331
 Link for PEGASUS: https://github.com/ShinhwanKang/ICDE22-PeGaSus
